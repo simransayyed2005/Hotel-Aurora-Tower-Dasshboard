@@ -40,6 +40,7 @@ What is the payment behavior of customers?
 Raw data makes it difficult to quickly answer these questions.
 
 🎯 Goal of the Dashboard
+
 To build an interactive analytics tool that:
 Tracks hotel booking and revenue performance
 Identifies high-performing booking channels and room types
@@ -48,6 +49,7 @@ Monitors monthly booking and revenue trends
 Supports data-driven hotel business decisions
 
 📊 Walkthrough of Key Visuals
+
 🔹 KPI Cards (Top Section)
 Total Booking Amount
 Total Revenue
@@ -76,14 +78,10 @@ Credit Card
 Debit Card
 Cash
 UPI / Net Banking
-🔹 Booking Amount by Payment Status
-Shows Pending, Paid, and Cancelled bookings.
-🔹 Guest Country Map Visualization
-World map showing booking amounts by guest country to understand international and domestic guest distribution.
-🔹 Monthly Revenue Trend (Line Chart)
-Tracks revenue changes across months.
-🔹 Monthly Booking Trend (Line Chart)
-Shows booking volume trends over the year.
+🔹 Booking Amount by Payment Status Shows Pending, Paid, and Cancelled bookings.
+🔹 Guest Country Map Visualization World map showing booking amounts by guest country to understand international and domestic guest distribution.
+🔹 Monthly Revenue Trend (Line Chart) Tracks revenue changes across months.
+🔹 Monthly Booking Trend (Line Chart) Shows booking volume trends over the year.
 
 💡 Business Impact & Insights
 Revenue Optimization: Identify top booking sources and profitable room types.
