@@ -16,10 +16,15 @@ room demand, and monthly trends to support data-driven hotel operations and stra
 
 3️) Tech Stack
 The dashboard was built using the following tools and technologies:
+
 📊 Power BI Desktop – Main platform for dashboard creation and visualization
+
 📂 Power Query – Data cleaning, transformation, and preprocessing
+
 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, KPIs, and dynamic visuals
+
 🧩 Data Modeling – Relationships created between booking, guest, room, and payment tables
+
 📁 File Format – .pbix for dashboard development and .png for preview screenshots
 
 4️) Data SourceSource: Sample Hotel Booking Dataset (synthetic / practice dataset)
