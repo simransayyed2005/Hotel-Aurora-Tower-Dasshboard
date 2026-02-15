@@ -31,6 +31,7 @@ Payment information (payment status and payment method)
 Date and monthly booking records for trend analysis
 
 5️)Features / Highlights
+
 🔹 Business Problem
 Hotel managers often struggle to analyze large booking datasets to understand:
 Which booking sources generate the most revenue?
@@ -49,12 +50,14 @@ Monitors monthly booking and revenue trends
 Supports data-driven hotel business decisions
 
 📊 Walkthrough of Key Visuals
+
 🔹 KPI Cards (Top Section)
 Total Booking Amount
 Total Revenue
 Average Room Rate
 Total Adults
 Guest Ratings
+
 🔹 Booking Source Analysis (Donut Chart)
 Shows distribution of bookings from:
 Walk-in
@@ -62,6 +65,7 @@ Expedia
 Agoda
 Website
 Other platforms
+
 🔹 Room Type Performance (Bar Chart / Tiles)
 Comparison of:
 Standard
@@ -69,6 +73,7 @@ Deluxe
 Suite
 Super Deluxe
 Helps identify the most booked and profitable room types.
+
 🔹 Revenue by Payment Method (Donut Chart)
 Displays revenue from:
 Credit Card
