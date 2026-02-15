@@ -76,8 +76,11 @@ Debit Card
 Cash
 UPI / Net Banking
 🔹 Booking Amount by Payment Status Shows Pending, Paid, and Cancelled bookings.
+
 🔹 Guest Country Map Visualization World map showing booking amounts by guest country to understand international and domestic guest distribution.
+
 🔹 Monthly Revenue Trend (Line Chart) Tracks revenue changes across months.
+
 🔹 Monthly Booking Trend (Line Chart) Shows booking volume trends over the year.
 
 💡 Business Impact & Insights
