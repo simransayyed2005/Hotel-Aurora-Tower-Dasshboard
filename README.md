@@ -50,7 +50,6 @@ Supports data-driven hotel business decisions
 📊 Walkthrough of Key Visuals
 
 🔹 KPI Cards (Top Section)
-
 Total Booking Amount
 Total Revenue
 Average Room Rate
@@ -59,7 +58,6 @@ Guest Ratings
 
 🔹 Booking Source Analysis (Donut Chart)
 Shows distribution of bookings from:
-
 Walk-in
 Expedia
 Agoda
@@ -68,7 +66,6 @@ Other platforms
 
 🔹 Room Type Performance (Bar Chart / Tiles)
 Comparison of:
-
 Standard
 Deluxe
 Suite
@@ -93,7 +90,6 @@ Shows booking volume trends over the year.
 
 
 💡 Business Impact & Insights
-
 Revenue Optimization: Identify top booking sources and profitable room types.
 Marketing Strategy: Focus marketing on high-performing countries and platforms.
 Operational Planning: Predict peak booking months for staffing and pricing strategy.
