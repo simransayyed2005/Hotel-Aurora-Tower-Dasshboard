@@ -80,6 +80,7 @@ Credit Card
 Debit Card
 Cash
 UPI / Net Banking
+
 🔹 Booking Amount by Payment Status Shows Pending, Paid, and Cancelled bookings.
 
 🔹 Guest Country Map Visualization World map showing booking amounts by guest country to understand international and domestic guest distribution.
