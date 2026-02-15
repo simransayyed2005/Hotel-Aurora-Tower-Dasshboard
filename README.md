@@ -5,7 +5,7 @@ room performance, guest demographics, and monthly trends to support data-driven 
 A dynamic and interactive data visualization dashboard designed to analyze hotel booking, revenue, room performance, and guest trends for Hotel Aurora Tower.
 The dashboard provides actionable insights for hotel management, marketing teams, and business analysts.
 
-*** Project Title / Headline***
+ Project Title / Headline
 An interactive Power BI dashboard to explore hotel booking patterns, revenue performance, room occupancy,
 and guest demographics for better business decisions.
 2️⃣ Short Description / Purpose
