@@ -8,6 +8,7 @@ The dashboard provides actionable insights for hotel management, marketing teams
 1) Project Title / Headline
 An interactive Power BI dashboard to explore hotel booking patterns, revenue performance, room occupancy,
 and guest demographics for better business decisions.
+
 2️) Short Description / Purpose
 The Hotel Aurora Tower Dashboard is an interactive Power BI report designed to help hotel managers and analysts
 monitor bookings, revenue, room performance, and guest behavior. It provides insights into booking sources, payment methods,
