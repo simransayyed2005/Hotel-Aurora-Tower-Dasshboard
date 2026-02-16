@@ -91,9 +91,13 @@ UPI / Net Banking
 
 # Business Impact & Insights
 Revenue Optimization: Identify top booking sources and profitable room types.
+
 Marketing Strategy: Focus marketing on high-performing countries and platforms.
+
 Operational Planning: Predict peak booking months for staffing and pricing strategy.
+
 Customer Behavior Analysis: Understand payment preferences and cancellation patterns.
+
 Data-Driven Decision Making: Helps management improve pricing, promotions, and occupancy planning.
 
 ![Dashboard preview](Dashbord.png)
