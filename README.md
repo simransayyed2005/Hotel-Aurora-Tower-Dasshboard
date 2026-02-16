@@ -8,10 +8,15 @@ This project demonstrates how hospitality data can be transformed into meaningfu
 The Hotel Aurora Tower Dashboard helps understand:
 
 ✔ Booking trends across different booking sources
+
 ✔ Revenue and room rate performance
+
 ✔ Guest distribution by country
+
 ✔ Room type booking analysis
+
 ✔ Monthly revenue and booking trends
+
 ✔ Payment status and rating analysis
 
 Instead of manually analyzing hotel records, this dashboard provides a visual and interactive decision-making tool.
@@ -20,42 +25,47 @@ Instead of manually analyzing hotel records, this dashboard provides a visual an
 
 The goal of this project is to:
 
-Convert raw hotel booking data into interactive insights
+1) Convert raw hotel booking data into interactive insights
 
-Identify top booking sources and room types
+2) Identify top booking sources and room types
 
-Track revenue and booking performance
+3) Track revenue and booking performance
 
-Analyze guest demographics and travel trends
+4) Analyze guest demographics and travel trends
 
-Practice real-world hospitality analytics workflow
+5) Practice real-world hospitality analytics workflow
 
 # 🛠️ Tech Stack Used
 
 📊 Power BI Desktop – Dashboard development and visualization
+
 📂 Power Query – Data cleaning and transformation
+
 🧠 DAX (Data Analysis Expressions) – KPI calculations and measures
+
 📁 Microsoft Excel – Source dataset
+
 📝 Data Modeling – Relationships and filtering logic
-🖼 PNG Export – Dashboard preview for documentation
+
+
 
  # 📂 Data Source
 
 The dataset is a hotel booking dataset (Excel-based) containing:
 
-Booking-level transactional data
+1) Booking-level transactional data
 
-Booking sources (Walk-in, Expedia, Agoda, Website, etc.)
+2) Booking sources (Walk-in, Expedia, Agoda, Website, etc.)
 
-Room types (Standard, Deluxe, Suite, Super Deluxe)
+3) Room types (Standard, Deluxe, Suite, Super Deluxe)
 
-Guest country and location data
+4) Guest country and location data
 
-Monthly booking and revenue records
+5) Monthly booking and revenue records
 
-Payment status and ratings
+6) Payment status and ratings
 
-This dataset simulates a real-world hotel business scenario
+***This dataset simulates a real-world hotel business scenario***
 
 # 📊 Dashboard Features & Insights
 ***🔢 Key Performance Indicators (KPIs)***
@@ -76,31 +86,31 @@ These KPIs provide a quick snapshot of hotel performance.
 
 Shows booking distribution from:
 
-Walk-in
+1) Walk-in
 
-Expedia
+2) Expedia
 
-Agoda
+3) Agoda
 
-Website
+4) Website
 
-MakeMyTrip
+5) MakeMyTrip
 
-➡ Helps identify top-performing booking channels.
+ ➡ Helps identify top-performing booking channels.
 
 ***🛏 Room Type Performance***
 
-Visual comparison of room bookings:
+# Visual comparison of room bookings:
 
-Standard
+1) Standard
 
-Deluxe
+2) Deluxe
 
-Suite
+3) Suite
 
-Super Deluxe
+4) Super Deluxe
 
-➡ Helps optimize room pricing and inventory planning.
+ ➡ Helps optimize room pricing and inventory planning.
 
 ***🌍 Booking Amount by Guest Country***
 
@@ -124,11 +134,11 @@ Tracks booking volume by month.
 
 Shows distribution of:
 
-Paid
+1) Paid
 
-Pending
+2) Pending
 
-Cancelled
+3) Cancelled
 
 ➡ Helps monitor cash flow and cancellations.
 
