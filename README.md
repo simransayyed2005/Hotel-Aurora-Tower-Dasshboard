@@ -28,7 +28,7 @@ The dashboard was built using the following tools and technologies:
 
 📁 File Format – .pbix for dashboard development and .png for preview screenshots
 
-#  Data SourceSource: Sample Hotel Booking Dataset (synthetic / practice dataset)
+#  Data Source: Sample Hotel Booking Dataset (synthetic / practice dataset)
 The dataset includes:
 Booking details (booking ID, booking source, booking amount)
 Guest information (country, adults, ratings)
