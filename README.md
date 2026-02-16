@@ -101,4 +101,4 @@ Operational Planning: Predict peak booking months for staffing and pricing strat
 Customer Behavior Analysis: Understand payment preferences and cancellation patterns.
 Data-Driven Decision Making: Helps management improve pricing, promotions, and occupancy planning.
 
-/Screenshot 2026-02-15 213343.png/
+![Dashboard preview](Dashbord.png)
