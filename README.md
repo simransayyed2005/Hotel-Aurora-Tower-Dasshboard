@@ -37,7 +37,7 @@ Date and monthly booking records for trend analysis
 
 5️)Features / Highlights
 
-🔹 Business Problem
+#Business Problem
 Hotel managers often struggle to analyze large booking datasets to understand:
 Which booking sources generate the most revenue?
 Which room types are most profitable?
