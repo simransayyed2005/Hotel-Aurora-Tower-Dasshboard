@@ -10,11 +10,6 @@ An interactive Power BI dashboard to explore hotel booking patterns, revenue per
 and guest demographics for better business decisions.
 
 
-  # Short Description / Purpose
-The Hotel Aurora Tower Dashboard is an interactive Power BI report designed to help hotel managers and analysts
-monitor bookings, revenue, room performance, and guest behavior. It provides insights into booking sources, payment methods,
-room demand, and monthly trends to support data-driven hotel operations and strategic planning.
-
  # Tech Stack 
 The dashboard was built using the following tools and technologies:
 
@@ -28,7 +23,7 @@ The dashboard was built using the following tools and technologies:
 
 📁 File Format – .pbix for dashboard development and .png for preview screenshots
 
-#  Data Source: Sample Hotel Booking Dataset (synthetic / practice dataset)
+#  Data Source: Sample Hotel Booking Dataset.
 The dataset includes:
 Booking details (booking ID, booking source, booking amount)
 Guest information (country, adults, ratings)
